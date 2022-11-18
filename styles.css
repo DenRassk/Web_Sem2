@@ -1,0 +1,29 @@
+html, body {
+	background-color: azure;
+}
+
+#all_text {
+	color: blue;
+}
+
+.text_h1 {
+	color: #1b5e7e;
+}
+
+#text_h2 {
+	color: #1b7e7e;
+}
+
+#text_ol {
+	color: green;
+}
+
+.text_ul {
+	color: #2196f3;
+	font-family: Arial;
+	font-size: 11pt;
+}
+
+img {
+	width: 30%;
+}
